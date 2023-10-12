@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luisdavidsj
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript, Angular and Java
-- 💞️ I’m looking to collaborate on Frontend projects
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me: luis.saenz@ilab.net
 
 <!---
